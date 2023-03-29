@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 5.08,
+          "width": 2.54
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -413,7 +413,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "soilmoisture-rescue"
+    ]
   },
   "meta": {
     "filename": "soilmoisture.kicad_pro",
@@ -756,6 +758,10 @@
     [
       "0d83ea7b-58b2-465b-bd1b-b8fa23c41812",
       ""
+    ],
+    [
+      "09ab1cb6-6419-4a56-baef-5472db5ffc64",
+      "Oscillator"
     ]
   ],
   "text_variables": {}
