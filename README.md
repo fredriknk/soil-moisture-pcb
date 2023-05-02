@@ -1,3 +1,5 @@
+Further work on https://github.com/fredriknk/SoilSense
+
 # soil-moisture-pcb
 Capacitive soil moisture sensor routed in KiCad. Uses an Fastnel NRF52840 module, and is powered by a 3.0v coin cell battery.
 
